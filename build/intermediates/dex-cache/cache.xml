@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f03aeb52e31208cc5bf1373505554816e005a54e">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_117bf5d31a808f1222e8f3a9728bee8c49dd9dba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_71658ddd96ee9df6ea0dd9389cb1d294b506ecd4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_061cdc020904746d1ed700ed535f7db092cf1f4c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_5dfb858fbc80377fd766ab8f7f88f2da50bc7e0d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_ed05bf1ea909317f9407b3eaa5e0bfaccb6d014f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8d3543634b32d9f7a4febfe6badfdc5a8c744d22">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_798182c1a33af02bf4a8b83b4321323a9d63b5e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/uk.co.chrisjenx-calligraphy-2.2.0_8dc9938ae718e1ba6b47b3596317671475061940/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_5b194bb43656dce9c7784c50bd045c631097bbeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_1ea9563809b9746aa21b25c6f223bc60d97b83b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_ac2debb5da8670f1db5de81fe040ed43428916f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_aa27bdfbe3e638e15aea407e0eb8ccd3f1c1fcb0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_ac88ee7e7049f7a3e59a9616c612a1e297b14c34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_e24ea697037fa3942e5079ec646f2e9832d66569/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_3bb86326db374ab2cebdfa73e901dc1594fc9508/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_16b6214553b364ca66d994b4c662500cb23dc4c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_1df4d02a52f018437a420389f86d1604fcb8a20c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_8fb3d5f0c33163b70eea7fec3cffbf274bc1ce82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.1.0_0f30334fbb993a9e75ace3cf6f0dd8bf601fa531/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_f12d7a1f5113a01148e37a7ba6653f8d65677ae2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_bc43f6d4e4d9ca360131c12aa2581ce0c1693dce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/htsi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/htsi/Documents/Projects/GitHub/Dinosys-AppTemplate/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_fa0eb339411d81d435718848016aeca593b1ec39/classes.dex" />
+    </item>
+
+</items>
